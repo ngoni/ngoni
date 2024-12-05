@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngoni
-- 👀 I’m interested in Android Development and Blockchain Technology 
+- 👀 I’m interested in Android and Flutter Development 
 - 🌱 I’m currently migrating and Android View based projec to JetPack Compose
 - 💞️ I’m looking to collaborate on Android mobile development
 - 📫 How to reach me on Twitter @ngonimunyaradzi
